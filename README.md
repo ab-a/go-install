@@ -1,9 +1,5 @@
 # go-install
 
-Small Script for installing Go in 1 second
-
-This script is for bash.
-
 ## Step 1
 Create the file and add execution permission to it : 
 
