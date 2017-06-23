@@ -1,5 +1,7 @@
 # go-install
 
+4 line for installing Go in 1 second
+
 ## Step 1
 Create the file and add execution permission to it : 
 
